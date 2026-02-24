@@ -24,9 +24,9 @@ I love connecting with fellow developers, sharing knowledge, and collaborating o
 [![Email](https://img.shields.io/badge/Email-ff9900?style=flat-square&link=mailto:lpaschopoulos@gmail.com)](mailto:lpaschopoulos@gmail.com)
 
 ## 📊 GitHub Stats
-![Loukas Paschopoulos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=lpaschopoulos&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lpaschopoulos&show_icons=true&theme=dark)
 
 
 ## 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpaschopoulos&layout=compact&theme=dark)](https://github.com/lpaschopoulos)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpaschopoulos&layout=compact&theme=dark)
